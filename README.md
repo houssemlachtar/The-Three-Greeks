@@ -4,7 +4,7 @@ Interact with a 3D story of three greek girls greatly elaborated with Three JS.
 <br>
 <br>        
 <a href="https://the-three-greeks.vercel.app">
-        <img alt="Thumbnail" src="#" />
+        <img alt="Thumbnail" src="./src/The-Three-Greeks.com.jpg" />
     </a>
 <br>
 <a href="https://the-three-greeks.vercel.app">
