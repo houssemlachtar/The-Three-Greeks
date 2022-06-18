@@ -454,7 +454,7 @@ nav.header .a:hover~.cursor {
     font-family: 'Josefin Sans', sans-serif;
     font-weight: 100;
     line-height: 23px;
-    height: 180px;
+    height: 247px;
     color: #898989;
 }
 
@@ -532,7 +532,7 @@ nav.header .a:hover~.cursor {
     .third>p {
         column-count: 1;
         height: 700px;
-        line-height: 1.5rem;
+        line-height: 1.25rem;
     }
 }
 
