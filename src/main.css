@@ -448,12 +448,12 @@ nav.header .a:hover~.cursor {
 
 .third>p {
     column-count: 2;
-    column-gap: 40px;
+    column-gap: 19px;
     width: 80%;
     font-size: 13px;
     font-family: 'Josefin Sans', sans-serif;
     font-weight: 100;
-    line-height: 28px;
+    line-height: 23px;
     height: 180px;
     color: #898989;
 }
@@ -531,6 +531,8 @@ nav.header .a:hover~.cursor {
     }
     .third>p {
         column-count: 1;
+        height: 700px;
+        line-height: 1.5rem;
     }
 }
 
